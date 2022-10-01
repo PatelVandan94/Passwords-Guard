@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Passwords Guard</string>
+    <string name="email_username">Email/Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="todo">TODO</string>
+    <string name="signin">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="CreatePage_Password">Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signupimage">SignUpImage</string>
+    <string name="title_activity_menu_page">MenuPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="information_for_regetting_password">Information for regetting password</string>
+    <string name="your_sensitive_information">Your Sensitive Information</string>
+    <string name="get_you_password">Get You Password</string>
+    <string name="get_your_password">GET YOUR PASSWORD</string>
+    <string name="_1_get_random_password">1. Get Random Password</string>
+    <string name="_2_manage_passwords">2. Manage Passwords</string>
+    <string name="logout">TODO</string>
+    <string name="your_password_is">Your Password is:</string>
+    <string name="enter_length_of_password">Enter length of Password</string>
+    <string name="click">Click</string>
+    <string name="copy">COPY</string>
+</resources>
