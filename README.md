@@ -1,2 +1,2 @@
-# Passwords-Guard-
+# Passwords-Guard
 Keep your Passwords safe at one place.
